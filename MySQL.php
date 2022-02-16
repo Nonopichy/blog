@@ -3,9 +3,7 @@
 $dbServerName = "127.0.0.1";
  
 $dbUserName = "root";
- 
-$dbPassword = 'XE+Cc2mJXfi3J_+Y';
- 
+
 $dbName = "blog";
  
 $conn = mysqli_connect($dbServerName, $dbUserName, "Strength", $dbName);
